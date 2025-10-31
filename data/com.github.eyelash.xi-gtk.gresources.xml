@@ -1,0 +1,6 @@
+<gresources>
+  <gresource prefix="/com/github/eyelash/xi-gtk">
+    <file>style.css</file>
+    <file>key-bindings.css</file>
+  </gresource>
+</gresources>
