@@ -17,4 +17,4 @@ meson compile -C builddir
 ## Usage
 
 - copy 'xi-core.exe' from xi-editor project(core backend program) to builddir
-- and run './xi-gtk' includes builddir folder new folder
+- and run './xi-gtk' in builddir folder
