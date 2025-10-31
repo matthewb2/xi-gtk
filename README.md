@@ -10,11 +10,11 @@
 Inside the root of the codebase run
 
 ```bash
-meson setup --configure builddir
-meson compile -C builddir
+meson setup build
+meson compile -C build
 ```
 
 ## Usage
 
-- copy 'xi-core.exe' from xi-editor project(core backend program) to builddir
-- and run './xi-gtk' in builddir folder
+- copy 'xi-core.exe' from xi-editor project(core backend program) to build
+- and run './xi-gtk' in build directory
